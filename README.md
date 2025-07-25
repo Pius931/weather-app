@@ -21,8 +21,8 @@ A simple weather application built with HTML, CSS, and JavaScript that fetches r
 
 
 
-📌 Live Demo
-View it here
+## Live Demo
+👉 [Click to view](https://pius931.github.io/weather-app/)
 
 👤 Author
 Pius Olumide
